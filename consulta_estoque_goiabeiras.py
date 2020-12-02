@@ -6,7 +6,7 @@ st.title('Consulta Estoque GOIABEIRAS')
 st.header('Estoques em 13-11-2020')
 
 
-arquivo = 'goi13112020.csv'
+arquivo = 'goi02122020.csv'
 
 @st.cache
 def get_data():

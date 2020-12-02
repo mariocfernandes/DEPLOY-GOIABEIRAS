@@ -3,7 +3,7 @@ import streamlit as st
 
 # Titulo
 st.title('Consulta Estoque GOIABEIRAS')
-st.header('Estoques em 13-11-2020')
+st.header('Estoques em 02-12-2020')
 
 
 arquivo = 'goi02122020.csv'
